@@ -4,6 +4,7 @@
   "name" : "hellohook",
   "short" : "Create your own welcome bot with a custom profile picture!",
   "requirements" : [],
+  "min_bot_version": "3.5.1",
   "description" : "Create your own welcome bot with a custom profile picture! Choose between a regular message or an embed welcome, with a ping option.",
   "permissions" : [],
   "end_user_data_statement" : "This cog does not store any End User Data.",
